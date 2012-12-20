@@ -9,8 +9,6 @@ Logtail allows you to view logfiles for your django project via your django
 admin, and will also provide you with a live tail of the logfiles using ajax
 polling - and therefore without the need for a long-running django process.
 
-I think at the moment it's only Django 1.4 compatible.
-
 See Also: https://pypi.python.org/pypi/django_logtail
 
 Installation and Use
